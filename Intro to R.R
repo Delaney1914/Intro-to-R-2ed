@@ -7,3 +7,8 @@
 # 
 # In fact, you can put comments anywhere on a line as long as 
 # you put "#" before them.
+# Written by Troy A. Adair, Jr. Ph. D.
+#
+# Copy for delaney1914
+#
+#Customized By Delaney1914
